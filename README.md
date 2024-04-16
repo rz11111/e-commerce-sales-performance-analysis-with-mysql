@@ -5,6 +5,7 @@ This repository encompasses a variety of business analytics projects including *
 This project focuses on analysing e-commerce sales performance data using **MySQL Workbench** for data analysis, **Tableau** for data visualisation, and **PowerPoint** for presenting database structure. By leveraging these tools, our aim is to gain insights into website traffic across channels, product sales and refund trends, and customer behaviours.
 
 ## 2. Major Tools 
+- SQL queries
 - MySQL Workbench 
 - Tableau Public 
 - PowerPoint
