@@ -1,4 +1,4 @@
-# e-commerce-sales-performance-analysis-with-mysql
+# E-commerce Sales Performance Analysis with MySQL
 This repository encompasses a variety of business analytics projects including **SQL**, **Tableau**, and **PowerPoint**.
 
 ## 1. Overview 
